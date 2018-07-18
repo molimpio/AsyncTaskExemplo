@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsyncTaskExemplo</string>
+    <string name="busca_imagem">Busca imagem</string>
+</resources>
